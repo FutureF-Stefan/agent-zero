@@ -36,3 +36,4 @@ knowledge/*
 *.env
 >>>>>>> Stashed changes
 example.env
+*.env
